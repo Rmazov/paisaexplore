@@ -1,0 +1,17 @@
+[33mcommit e8de39ca5c113bc751a3547af5580b02b04d0d14[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ricardo Mazo Velasquez <97861713+Rmazov@users.noreply.github.com>
+Date:   Mon Sep 16 20:21:23 2024 -0500
+
+    V2
+
+[33mcommit da30e92c5855f97244b5235152d8bd21c775e34a[m
+Author: Ricardo Mazo Velasquez <97861713+Rmazov@users.noreply.github.com>
+Date:   Thu Aug 15 10:02:17 2024 -0500
+
+    V1
+
+[33mcommit 2bdb0c55e103f32d63143fd0cdbca5d3babd1959[m
+Author: Ricardo Mazo Velasquez <97861713+Rmazov@users.noreply.github.com>
+Date:   Tue Aug 13 11:10:45 2024 -0500
+
+    Initialize project using Create React App
